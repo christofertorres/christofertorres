@@ -14,8 +14,6 @@
 
 </div>
 
-##
-
 ## 👤 Sobre mim
 
 ```js
@@ -49,8 +47,6 @@ const christofer = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-##
-
 ## 🚀 Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
@@ -60,17 +56,9 @@ const christofer = {
 | [🌐 Chris Host](https://github.com/christofertorres/chris-host-landing-page) | Landing page profissional para serviço de hospedagem | HTML · CSS · JS |
 | [🔢 Gerador de Tabuadas](https://github.com/christofertorres/gerador-de-tabuadas) | Gera e exibe tabuadas de forma dinâmica e interativa | HTML · CSS · JS |
 
-##
-
 ## 📊 Estatísticas
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christofertorres&show_icons=true&theme=github_dark&hide_border=true&title_color=c8192a&icon_color=c8192a&text_color=f0ece4&bg_color=0a0a0a)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christofertorres&layout=donut&theme=github_dark&hide_border=true&title_color=c8192a&text_color=f0ece4&bg_color=0a0a0a)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=christofertorres&theme=onedark&no-frame=true&row=1&column=4)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=christofertorres&theme=github-dark&hide_border=true&ring=c8192a&fire=c8192a&currStreakLabel=c8192a&background=0a0a0a)
 
@@ -79,8 +67,6 @@ const christofer = {
 ##
 
 <div align="center">
-
-##
 
 *"Faça funcionar, deixe bonito, aprimore rápido."*
 
