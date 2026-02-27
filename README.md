@@ -8,9 +8,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christofertorres)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christofertorres.dev@gmail.com)
 
+🎯 Buscando oportunidades como **Dev Frontend/Fullstack Júnior**
+
+💬 Aberto a freelas e projetos colaborativos
+
 </div>
 
----
+##
 
 ## 👤 Sobre mim
 
@@ -25,14 +29,10 @@ const christofer = {
   estudando:  "Frontend e Backend para aprimorar Fullstack",
   objetivo:   "Construir interfaces que as pessoas amam usar",
   curiosidade: "Tenho um cachorro, Marley. Amo jogos, músicas e minha namorada."
-  
-// 🎯 Buscando oportunidades como **Dev Frontend/Fullstack Júnior**
-// 💬 Aberto a freelas e projetos colaborativos
-
 };
 ```
 
----
+###
 
 ## 🛠️ Skills & Ferramentas
 
@@ -49,7 +49,7 @@ const christofer = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+##
 
 ## 🚀 Projetos em destaque
 
@@ -60,8 +60,7 @@ const christofer = {
 | [🌐 Chris Host](https://github.com/christofertorres/chris-host-landing-page) | Landing page profissional para serviço de hospedagem | HTML · CSS · JS |
 | [🔢 Gerador de Tabuadas](https://github.com/christofertorres/gerador-de-tabuadas) | Gera e exibe tabuadas de forma dinâmica e interativa | HTML · CSS · JS |
 
-
----
+##
 
 ## 📊 Estatísticas
 
@@ -73,13 +72,15 @@ const christofer = {
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=christofertorres&theme=onedark&no-frame=true&row=1&column=4)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=christofertorres&theme=github-dark&hide_border=true&ring=c8192a&fire=c8192a&currStreakLabel=c8192a&background=0a0a0a)
+
 </div>
 
----
+##
 
 <div align="center">
 
-###
+##
 
 *"Faça funcionar, deixe bonito, aprimore rápido."*
 
