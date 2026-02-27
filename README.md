@@ -8,9 +8,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christofertorres)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christofertorres.dev@gmail.com)
 
-🎯 Buscando oportunidades como **Dev Frontend/Fullstack Júnior**
+Buscando oportunidades como **Dev Frontend/Fullstack Júnior**
 
-💬 Aberto a freelas e projetos colaborativos
+Disponível para freelas e projetos colaborativos
 
 </div>
 
@@ -29,8 +29,6 @@ const christofer = {
   curiosidade: "Tenho um cachorro, Marley. Amo jogos, músicas e minha namorada."
 };
 ```
-
-###
 
 ## 🛠️ Skills & Ferramentas
 
@@ -61,6 +59,8 @@ const christofer = {
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=christofertorres&theme=github-dark&hide_border=true&ring=c8192a&fire=c8192a&currStreakLabel=c8192a&background=0a0a0a)
+![Status](https://img.shields.io/badge/Disponível%20para%20oportunidades-c8192a?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Foco-Frontend%20%2F%20Fullstack-181717?style=for-the-badge)
 
 </div>
 
@@ -71,7 +71,5 @@ const christofer = {
 *"Faça funcionar, deixe bonito, aprimore rápido."*
 
 **Code by Christofer Torres**
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=christofertorres.christofertorres)
 
 </div>
