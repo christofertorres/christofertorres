@@ -60,6 +60,8 @@ const christofer = {
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=christofertorres&theme=github-dark&hide_border=true&ring=c8192a&fire=c8192a&currStreakLabel=c8192a&background=0a0a0a)
 
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=christofertorres&size_weight=0.5&count_weight=0.5&layout=compact&title_color=fcba03&text_color=f8f8f2&bg_color=0a0a0a&langs_count=6)](https://github.com/christofertorres?tab=repositories)
+
 </div>
 
 ##
