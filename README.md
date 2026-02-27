@@ -7,12 +7,10 @@
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://christofertorres.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christofertorres)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christofertorres.dev@gmail.com)
+
 ![Status](https://img.shields.io/badge/Disponível%20para%20oportunidades-c8192a?style=for-the-badge)
+
 ![Focus](https://img.shields.io/badge/Foco-Frontend%20%2F%20Fullstack-181717?style=for-the-badge)
-
-Buscando oportunidades como **Dev Frontend/Fullstack Júnior**
-
-Disponível para freelas e projetos colaborativos
 
 </div>
 
