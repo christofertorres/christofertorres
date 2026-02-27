@@ -59,7 +59,9 @@ const christofer = {
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=christofertorres&theme=github-dark&hide_border=true&ring=c8192a&fire=c8192a&currStreakLabel=c8192a&background=0a0a0a)
+
 ![Status](https://img.shields.io/badge/Disponível%20para%20oportunidades-c8192a?style=for-the-badge)
+
 ![Focus](https://img.shields.io/badge/Foco-Frontend%20%2F%20Fullstack-181717?style=for-the-badge)
 
 </div>
